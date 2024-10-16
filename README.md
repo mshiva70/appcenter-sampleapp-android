@@ -34,4 +34,4 @@ Using Gradle you can pass environment variables into your Build Configuration an
 
 For more information on how to do so, visit our docs here: [Build time environment variables using Gradle](https://docs.microsoft.com/en-us/appcenter/build/custom/variables/#buildgradle-for-android)
 
-And if you want to try it out, you can fork this repository and add your App Secret by adding the APPCENTER_APP_SECRET environment variable in hte App Center Build configuration.
+And if you want to try it out, you can fork this repository and add your App Secret by adding the APPCENTER_APP_SECRET environment variable in hte App Center Build configuration.ssss
